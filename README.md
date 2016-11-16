@@ -106,6 +106,7 @@ console.log(newCrewScores) // { A: 1, B: 2, C: 3 }
 
 ## Extra Link
 
+**Explore**
 
 > [functional-javascript-currying](https://github.com/CHAOWEICHIU/functional-javascript-currying)
 
@@ -118,6 +119,8 @@ console.log(newCrewScores) // { A: 1, B: 2, C: 3 }
 
 > [functional-javascript-purity](https://github.com/CHAOWEICHIU/functional-javascript-purity)
 
+
+**Usage**
 
 
 > [Custom Real World Functions](https://github.com/CHAOWEICHIU/ccw-custom-functions)
