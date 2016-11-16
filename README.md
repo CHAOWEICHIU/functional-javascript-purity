@@ -43,6 +43,7 @@ console.log(randomBetween(1,5)) // 1 or 2 or 3 ... or 5
 ```
 
 
+> Immunibility
 
 ```javascript
 const items = [
