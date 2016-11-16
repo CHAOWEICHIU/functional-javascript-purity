@@ -1,8 +1,13 @@
-## Functional Programming
+# Functional Programming 
+
 
 ## SIGNS OF IMPURITY 
 
+
 > Mutated Arguments
+
+
+
 ```javascript
 const team = {
 	'kid-1':'ck',
@@ -25,5 +30,4 @@ const addToTeamPure = (name='', role='') => (team={}) => ({...team,[name]: role}
 const complete = addToTeamPure('kid-3', 'cw')(team)
 console.log(complete)
 // { 'kid-1': 'ck', 'kid-2': 'ken', 'kid-3': 'cw' }
-
 ```
