@@ -80,6 +80,7 @@ console.log(betterProducts)
 > Spread Operator
 
 ```javascript
+// Not So Good
 const crewScores_bad = {
     'A' : 1, 
     'B':  2,
@@ -89,7 +90,7 @@ const crewScores_bad = {
 delete crewScores_bad.D;
 console.log(crewScores_bad) // { A: 1, B: 2, C: 3 }
 
-
+// Better
 const crewScores_good = {
     'A' : 1, 
     'B': 2,
