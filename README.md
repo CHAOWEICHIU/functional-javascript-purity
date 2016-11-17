@@ -106,7 +106,7 @@ console.log(newCrewScores) // { A: 1, B: 2, C: 3 }
 
 ## Extra Link
 
-**Explore**
+**Explore More**
 
 > [functional-javascript-currying](https://github.com/CHAOWEICHIU/functional-javascript-currying)
 
@@ -114,7 +114,7 @@ console.log(newCrewScores) // { A: 1, B: 2, C: 3 }
 > [functional_javaScript_composition_1](https://github.com/CHAOWEICHIU/functional_javaScript_composition_1)
 
 
-> [functional_javaScript_composition_2](https://github.com/CHAOWEICHIU/functional_javaScript_composition_1)
+> [functional_javaScript_composition_2](https://github.com/CHAOWEICHIU/functional_javaScript_composition_2)
 
 
 > [functional-javascript-purity](https://github.com/CHAOWEICHIU/functional-javascript-purity)
